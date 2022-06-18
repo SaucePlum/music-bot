@@ -91,9 +91,6 @@ if __name__ == "__main__":
     # 通过预设置的类型，设置需要监听的事件通道
     intents = botpy.Intents.none()
     intents.public_guild_messages = True
-    intents.direct_message = True
-    intents.guilds = True
-    intents.guild_members = True
 
     client = MyClient(intents=intents)
     client.run(appid="appid", token="token")
