@@ -1,0 +1,2 @@
+qq-botpy
+requests
