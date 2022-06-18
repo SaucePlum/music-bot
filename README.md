@@ -65,3 +65,8 @@ python3 run.py
 
 -   [QQ音乐](https://y.qq.com/)  提供点歌API
 -   [苏晓晴](https://www.toubiec.cn/)  提供随机萌图API服务
+
+## 功能预览
+
+![功能预览](demo.png)
+
